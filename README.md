@@ -1,3 +1,4 @@
 # Stock-Exchange-Data-Kaggle-
 
-Noob Version of Conversion currency. Will upload a better version with currency convertor API from python 
+Got the dataset from Kaggle. I did some analysis on the data and turn the closing index of the stocks from the currency in their own country to USD.
+
